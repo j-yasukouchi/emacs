@@ -1,0 +1,19 @@
+ls
+ls -alh
+clear
+ls -alh
+./list2-8
+./list2-8
+ls
+./list2-8
+./list2-8
+ls
+cp list2-8.c list2-8test.c
+emacs list2-8test.c 
+ls
+./list2-8test 
+emacs list2-8test.c 
+ls
+cd ..
+ls
+ls -alh
